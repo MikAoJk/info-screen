@@ -1,0 +1,44 @@
+{
+  "name": "info-screen",
+  "version": "0.1.0",
+  "homepage": "https://mikaojk.github.io/info-screen",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^6.4.6",
+    "@tailwindcss/postcss": "^4.0.5",
+    "@types/node": "22.13.0",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "autoprefixer": "10.4.20",
+    "caniuse-lite": "^1.0.30001701",
+    "eslint": "9.19.0",
+    "eslint-config-next": "15.1.6",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.40",
+    "next": "15.1.6",
+    "postcss": "^8.5.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-xml-parser": "^1.1.9",
+    "tailwindcss": "^4.0.8",
+    "typescript": "5.7.3"
+  },
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^16.0.0",
+    "@testing-library/react": "^16.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^26.0.0",
+    "vitest": "^3.0.1"
+  }
+}
