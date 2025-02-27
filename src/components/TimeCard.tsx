@@ -50,7 +50,7 @@ const TimeCard = () => {
                         marginTop: 1.5,
                         marginLeft: 1.5
                     }}
-                    image={"/clock.svg"}
+                    image={"clock.svg"}
                     alt="Clock Icon"
                 />
                 <Box
