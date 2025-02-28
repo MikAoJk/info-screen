@@ -113,7 +113,7 @@ const NrkCard = () => {
                     ) : (
                         <CardMedia
                             sx={{height: 450}}
-                            image={"/nrk-logo.jpg"}
+                            image={"nrk-logo.jpg"}
                             title="News Header Image"
                         />
                     )}
