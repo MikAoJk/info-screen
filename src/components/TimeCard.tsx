@@ -61,7 +61,7 @@ const TimeCard = () => {
                     }}
                 >
                     <CardContent style={{width: 100}}>
-                        <h1 style={{textAlign: "center", marginTop: 5, fontSize: "large"}}>{time}</h1>
+                        <h1 style={{textAlign: "center", marginTop: 5, fontSize: "xx-large"}}>{time}</h1>
                     </CardContent>
                 </Box>
             </Card>
